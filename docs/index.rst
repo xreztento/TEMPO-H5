@@ -1,12 +1,13 @@
-Welcome to My Project's documentation!
+Welcome to TEMPO-5 Project's documentation!
 ================================
 
-Contents:
+TEMPO-5 Core Interface:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    Element.rst
+   
 
 Indices and tables
 ==================
