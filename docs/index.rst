@@ -4,8 +4,8 @@ Welcome to My Project's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 1
+   
    Element.rst
 
 Indices and tables
