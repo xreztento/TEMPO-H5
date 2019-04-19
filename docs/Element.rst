@@ -1,29 +1,9 @@
-This is a Title
+Element interface method
 ===============
-That has a paragraph about a main subject and is set when the '='
-is at least the same length of the title itself.
+Element是DOM元素的主类，实现了对元素的初始化和一些结合JQuery进行重新表达的方法。
 
-Subject Subtitle
+Method List
 ----------------
-Subtitles are set with '-' and are required to have the same length 
-of the subttitle itself, just like titles.
-
-Lists can be unnumbered like:
-
- * Item Foo
- * Item Bar
-
-Or automatically numbered:
-
- #. Item 1
- #. Item 2
-
-Inline Markup
--------------
-Words can have *emphasis in italics* or be **bold** and you can
-define code samples with back quotes, like when you talk about a 
-command: ``sudo`` gives you super user powers! 
-
-This is an example on how to link images:
-
-.. image:: _static/system_activity.jpg
+init
+----------------
+ #. 语法
